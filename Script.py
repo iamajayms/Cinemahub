@@ -3,7 +3,7 @@ class script(object):
 My Nαмe Iѕ <a href=https://t.me/{}>{}</a>, I Cαɴ Provιde Movιeѕ, Add Me To Yoυr Groυp Aɴd Mαĸe Me Adмιɴ.. Tнeɴ See My Power♥️♥️🔥"""
     HELP_TXT = """𝙷𝙴𝚈 {}
  Here Iѕ My Help Coммαɴdѕ."""
-    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: lυcαѕ вoт</b>
+    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: Damon</b>
 <b>✮ Creαтor: <a href="https://t.me/Sovel_jaison"> ѕσνєℓ נαιѕση </a>
 <b>✮ Updαтe Cнαɴɴel:<a href="https://t.me/emotionmedia"> Emotion Media </a></b>
 <b>✮ Lιвrαry: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
@@ -11,7 +11,7 @@ My Nαмe Iѕ <a href=https://t.me/{}>{}</a>, I Cαɴ Provιde Movιeѕ, Add Me 
 <b>✮ Dαтα Bαѕe: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ Boт Server: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ Bυιld Sтαтυѕ: 𝚅1.0.43</b>
-<b>✮ Mαιɴтαιɴed By: <a href="https://t.me/theajayms"> вαѕтιη נσє </a></b>"""
+<b>✮ Mαιɴтαιɴed By: <a href="https://t.me/theajayms"> AJAY M S </a></b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
@@ -74,7 +74,7 @@ Note:- Give a user details
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
     DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
   
-<b>✮ Deploy Tutorial ››</b> <i><b>https://t.me/cinemahub00</b></i>
+<b>✮ Latest Movies ››</b> <i><b>https://t.me/amsmoviehub</b></i>
 
 <b>ᴊᴏɪɴ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ</b>
 
@@ -211,7 +211,7 @@ Delete A Lot Of Messages From Groups!
 <b>›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 <b>›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https:https://t.me/cinemahub00>ᴄɪɴᴇᴍᴀʜᴜʙ</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/amsmoviehub>Emotion Media</a>"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
